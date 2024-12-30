@@ -28,8 +28,7 @@ This is a Python-based Discord bot using the `nextcord` library. The bot maintai
    ```
    pip install nextcord requests
    ```
-
-3. Ensure Ollama is running at `http://localhost:11434`.
+3. Download and setup Ollama at https://ollama.ai
 
 4. Configure your bot token by replacing the token in `bot.run()` with your own Discord bot token.
 

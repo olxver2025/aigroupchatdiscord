@@ -41,7 +41,7 @@ This is a Python-based Discord bot using the `nextcord` library. The bot maintai
 ## Usage
 
 - Invite your bot to a Discord server.
-- Send messages in a channel where the bot is active, and it will respond using the AI API.
+- Send messages in a channel where the bot is active, and it will respond using the AI.
 - Chat history is saved automatically to provide context for future interactions.
 
 ## Database
@@ -62,3 +62,8 @@ Feel free to fork this repository and submit pull requests. Suggestions and cont
 ## License
 
 This project is licensed under the MIT License.
+
+
+## Note
+
+Some models may hallucinate or read out the system prompt. I can not do anything about this, but if you feel like you can help please submit a pull request.

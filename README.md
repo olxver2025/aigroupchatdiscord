@@ -70,4 +70,5 @@ Some models may hallucinate or read out the system prompt. I can not do anything
 
 ## Example
 ![image](https://github.com/user-attachments/assets/56d05c8a-e21d-4e9f-b346-f3ca9a7477ea)
+
 Here's an image showing the bot working in Discord. The bot recalls me saying 'hello' earlier and brings it up. `(This is using llama3.2:3b)`
